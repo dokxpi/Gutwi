@@ -1,4 +1,28 @@
-﻿ a {
+﻿html { overflow:  hidden;; }
+body { overflow:  hidden; }
+  
+  html, body {
+  width: 100%;
+  height: 100%;
+  color:#333;
+  background: #DCDCDC url(img/chruch.png);
+  font-family: "Segoe UI", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:0.95em;
+  line-height:135%;
+}
+
+
+.one {width:800px;  }
+.two {width:115px;height:130px;}
+.clear {clear: both;}
+
+
+
+
+
+
+
+ a {
         margin-left:100px;
 	color: #1d9d00;
 	text-decoration:none;
