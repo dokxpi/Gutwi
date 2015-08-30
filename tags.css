@@ -1,5 +1,4 @@
-﻿html { 
-overflow:  hidden; background-size: cover; /* Фон занимает всю доступную площадь */}
+﻿html { overflow:  hidden;   margin-bottom: -70px; /* Отступ снизу */}
 body { overflow:  hidden; }
   
   html, body {
